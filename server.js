@@ -142,11 +142,14 @@ function closeServer() {
      return new Promise((resolve, reject) => {
        console.log('Closing server');
        server.close(err => {
+         console.log("testing");
            if (err) {
+             console.log("There was an error");
                return reject(err);
            }
-           resolve();
-       });
+           console.log("Hello?");
+           return resolve();
+       });      
      });
   });
 }
