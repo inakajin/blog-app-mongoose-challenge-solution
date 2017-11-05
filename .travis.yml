@@ -6,6 +6,6 @@ deploy:
   provider: heroku
   api_key:
     secure: ySmKnOB1D1cLZcAL90z7X65GDHIVYxp+8i5qi1NlaOQd5hopdxhoKZFUBsRJ9710YmF21mH/5i9U3+gsX3JLUInCwfYgQffVktxKidunzp7fdYK12Uia6cEq6enSNrR8jzccrLNqvoe8uydq1jv1L+gMM6hHSa6mjbNWxYMt0rrdkvWFmszK5MdvipPzJ/MwdaPPmaCcM+aBdvetecxreLTcN93kLmcC6ywxlNnM4BcCt6hYBjYBi+gYUyRkT9o6OibrTJpaKiqpzJSfCat8kaz2vHrc+v/iD1gHG59tHkncc3h7OEVm9A0rlM6CkW68mlKjJ6msv7GWrNhCeVuhGeCMZlY8W/1J6xcVB1kSPEg+hV+o3cRi8nfXiME51/FHEWLj0WuhhBXOegZhW9KOg1EhEL25p0EmS8OzybN6h9nVq4NpH+4JrH4fMjUuOu/1LQalwQh1UvY/urHjIstuxIxLaQr/ep37RmsOE5LfSuoDHD9DvYGdDtZagU7P8dDXHXpynwXPnPrUoBWzhvgP1oOCsVxC/UExIl7+AkLsbSpGhJm274UBE6ae0MVQKjv3yn+9p3Jzeu0WZ8kPYE/u69gASwisPifCOMR1clb3PkqrUp2B6INnBNuBtZUxnAr/Oil/cda3L3UZH2J3bK/bfXSBIFF8ED9B+vTg/ue6rf4=
-  app: https://boiling-waters-73202.herokuapp.com/
+  app: boiling-waters-73202
   on:
     repo: inakajin/blog-app-mongoose-challenge-solution
